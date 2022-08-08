@@ -1,5 +1,5 @@
 # Soma Gauss
-Um programa que caucula a soma de gauss e cria um documento com todas as contas |
+Um programa feito com python para calcular a soma de Gauss e criar um documento com as contas |
    <img align="center" alt="logo do python" height="30" width="75" src="https://img.shields.io/badge/python-f7df1e?style=for-the-badge&logo=python">
 
 ---
