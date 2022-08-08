@@ -16,7 +16,7 @@ Um programa que caucula a soma de gauss e cria um documento com todas as contas 
         pip install python-docx
         
  
- <img src="/imagens-readme/resultado.png" alt="drawing" style="width:23rem;"/> <img src="/imagens-readme/final.png" alt="drawing" style="width:30rem;"/> 
+ <img src="/imagens-readme/resultado.png" alt="drawing" style="width:20rem;"/> <img src="/imagens-readme/final.png" alt="drawing" style="width:30rem;"/> 
 
         
  
