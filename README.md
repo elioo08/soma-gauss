@@ -4,7 +4,6 @@ Um programa que caucula a soma de gauss e cria um documento com todas as contas 
 
 ---
 
-  
 ### Requisisões:
  - Python 3
  - Bicliotecas PySimpleGui e python-docx
